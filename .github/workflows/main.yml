@@ -26,6 +26,10 @@ jobs:
     - name: Make Directory for results
       run: mkdir -p testResults
 
+    # Run Node
+    - name: Run node service
+      run: |
+       npm start
 
     # Run the POSTMAN collection
     - name: Run POSTMAN collection
