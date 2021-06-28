@@ -30,7 +30,7 @@ jobs:
     # Run the POSTMAN collection
     - name: Run POSTMAN collection
       run: |
-       newman run https://www.getpostman.com/collections/e2c1d0f079e36ebd7c4b -r cli
+       newman run http://www.getpostman.com/collections/e2c1d0f079e36ebd7c4b
 
     # Upload the contents of Test Results directory to workspace
     - name: Output the run Details
