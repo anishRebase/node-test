@@ -1,0 +1,96 @@
+{
+    "get": [
+        {
+          "name": "Sprite",
+          "id": "0c01a46a-c265-45b9-92dd-3344de3a555d"
+        },
+        {
+          "name": "Dr. Pepper",
+          "id": "f7c8fca9-b92a-43d4-87bc-192e5059449d"
+        },
+        {
+          "name": "Coca-Cola",
+          "id": "54c9ccbc-6064-4d2a-a59f-2426f529aa52"
+        },
+        {
+          "name": "Vans",
+          "id": "60dbedbf-8ae0-4d62-a470-ebd75395b340"
+        },
+        {
+          "name": "Bonjour",
+          "id": "0d993dfc-8bb2-42a9-b495-5575fb6ae0f6"
+        },
+        {
+          "name": "SPANX(r)",
+          "id": "90a0a91e-0710-4f86-a452-e0246a8e68b0"
+        }
+    ],
+    "getById": {
+      "id": "0c01a46a-c265-45b9-92dd-3344de3a555d",
+      "name": "Sprite",
+      "crunchbase_url": "https://www.crunchbase.com/organization/sprite",
+      "crunchbase_img": null,
+      "website": "https://www.sprite.com/home",
+      "socials": {
+        "twitter": "https://twitter.com/Sprite",
+        "youtube": "https://www.youtube.com/user/sprite",
+        "facebook": "https://www.facebook.com/spriteus",
+        "linkedin": null,
+        "pinterest": null
+      },
+      "industries": null,
+      "description": "",
+      "youtube_channel_id": [
+        "UCQ16VQ8xfkFe3y7nKzJ6aaA"
+      ],
+      "demographics": [
+        {
+          "gender": {
+            "male": "53.573017",
+            "female": "46.426983"
+          },
+          "age": {
+            "a18_29": "40.224888",
+            "a30_44": "23.793102",
+            "a45_60": "17.766117",
+            "a60_plus": "18.215893"
+          },
+          "ethnicity": {
+            "black": "11.331846",
+            "white": "78.08727",
+            "hispanic": "3.408501"
+          },
+          "location": {
+            "pacific": "16.387367",
+            "mountain": "7.798904",
+            "new_england": "6.106993",
+            "south_atlantic": "17.176926",
+            "middle_atlantic": "17.354174",
+            "east_north_central": "14.373187",
+            "east_south_central": "9.70029",
+            "west_south_central": "11.102159"
+          },
+          "income": {
+            "k_25_50": "30.039526",
+            "k_50_100": "41.10672",
+            "k_100_150": "4.891304",
+            "k_150_plus": "7.806324",
+            "k_under_25": "16.156126"
+          },
+          "education": {
+            "bachelor_degree": "33.030853",
+            "graduate_degree": "21.718088",
+            "high_school_degree": "8.272837",
+            "less_than_high_school_degree": "2.162734",
+            "some_college_or_associate_degree": "34.815487"
+          }
+        }
+      ],
+      "social_count": {
+        "twitter": 289580,
+        "youtube": 0,
+        "facebook": 0
+      },
+      "logo_img": null
+    }
+}
